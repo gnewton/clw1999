@@ -16,13 +16,13 @@ Needs install of LaTeX and TikZ.
 Needs TikZ packages: `shapes.geometric,arrows,positioning`
 
 #Building
-``
+```
+$ pdflatex Crossan_Lane_White_AMR24_3_1999_figure1_p532.tex
+```
 
 ## Make JPEG image
 ```
 $ gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=jpeg -dDOINTERPOLATE -dTextAlphaBits=4 -dGraphicsAlphaBits=4 -r600x600 -dMaxBitmap=500000000 -dAlignToPixels=0 -dGridFitTT=2 -sOutputFile=Crossan_Lane_White_AMR24_3_1999_figure1_p532.jpg Crossan_Lane_White_AMR24_3_1999_figure1_p532.pdf
-```
-pdflatex Crossan_Lane_White_AMR24_3_1999_figure1_p532.tex
 ```
 
 # Sample JPEG output
