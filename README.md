@@ -8,8 +8,8 @@ Mary M. Crossan, Henry W. Lane and Roderick E. White
 The Academy of Management Review
 Vol. 24, No. 3 (Jul., 1999) , pp. 522-537
 Published by: Academy of Management
-Stable URL: (http://www.jstor.org/stable/259140)[http://www.jstor.org/stable/259140]
 ```
+Stable URL: (http://www.jstor.org/stable/259140)[http://www.jstor.org/stable/259140]
 
 ![CC logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
