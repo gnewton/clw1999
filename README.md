@@ -14,6 +14,11 @@ Stable URL: (http://www.jstor.org/stable/259140)[http://www.jstor.org/stable/259
 ## Referencing
 If you use this diagram, you should reference it directly, as "Newton,G. 2015, after Crossan, et al. 1999".
 
+#Original Diagram
+This is the original diagram.
+Note this diagram is copyright(c) Academy of Management.
+![Original image. Copyrighted image](https://raw.githubusercontent.com/gnewton/clw1999/master/ORIGINAL_Crossan_Lane_White_AMR24_3_1999_figure1_p532.jpg)
+
 #Requirements
 Needs install of LaTeX and TikZ.
 Needs TikZ packages: `shapes.geometric,arrows,positioning`
