@@ -1,5 +1,5 @@
 # clw1999
-LaTeX TikZ recreation of diagram from Crossan,Lane &amp; White 1999 AMR:24:3:522-537 (Figure 1, p532)
+LaTeX TikZ re-creation of the diagram ""Organizational learning as a Dynamic Process" from Crossan,Lane &amp; White 1999 AMR:24:3:522-537 (Figure 1, p532).
 
 This re-creates in LaTeX and TikZ, Figure 1 on page 532 from this paper:
 ```
