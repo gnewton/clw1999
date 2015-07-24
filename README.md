@@ -21,7 +21,11 @@ Note this diagram is copyright(c) Academy of Management.
 
 #Requirements
 Needs install of LaTeX and TikZ.
-Needs TikZ packages: `shapes.geometric,arrows,positioning`
+Needs TikZ packages: 
+*`arrows`
+*`decorations.markings`
+*`positioning`
+*`shapes.geometric`
 
 #Building
 ##PDF
