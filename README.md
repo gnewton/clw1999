@@ -11,16 +11,20 @@ Published by: Academy of Management
 ```
 Stable URL: (http://www.jstor.org/stable/259140)[http://www.jstor.org/stable/259140]
 
+## Referencing
+If you use this diagram, you should reference it directly, as "Newton,G. 2015, after Crossan, et al. 1999".
+
 #Requirements
 Needs install of LaTeX and TikZ.
 Needs TikZ packages: `shapes.geometric,arrows,positioning`
 
 #Building
+##PDF
 ```
 $ pdflatex Crossan_Lane_White_AMR24_3_1999_figure1_p532.tex
 ```
 
-## Make JPEG image
+## JPEG
 ```
 $ gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=jpeg -dDOINTERPOLATE -dTextAlphaBits=4 -dGraphicsAlphaBits=4 -r600x600 -dMaxBitmap=500000000 -dAlignToPixels=0 -dGridFitTT=2 -sOutputFile=Crossan_Lane_White_AMR24_3_1999_figure1_p532.jpg Crossan_Lane_White_AMR24_3_1999_figure1_p532.pdf
 ```
@@ -31,6 +35,7 @@ $ gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=jpeg -dDOINTERPOLATE -dTextAlphaBits=4 -
 ![alt text](https://raw.githubusercontent.com/gnewton/clw1999/master/Crossan_Lane_White_AMR24_3_1999_figure1_p532.jpg)
 
 
+#Licence
 ![CC logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 Licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
